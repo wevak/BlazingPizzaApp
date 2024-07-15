@@ -12,5 +12,7 @@
 
 Code compilation :- `dotnet watch`
 
+![BlazingPizza](BlazingPizzaApp.png)
+
 > References:
 https://learn.microsoft.com/en-gb/training/modules/interact-with-data-blazor-web-apps/1-introduction
